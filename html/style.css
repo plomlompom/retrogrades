@@ -1,0 +1,27 @@
+body {
+  background-color: #cc9933;
+  color: #663300;
+  text-align: left;
+  font-family: sans-serif;
+}
+a {
+  color: #ffffff;
+}
+table {
+  width: 90%;
+}
+td {
+  vertical-align: top;
+  font-size: 1.5em;
+  margin: 1em;
+  padding: 1em;
+  width: 50%;
+}
+h1 {
+  margin-bottom: 0;
+}
+img {
+  border: 0.5em solid #996633;
+  margin 3em;
+  width: 75%;
+}
